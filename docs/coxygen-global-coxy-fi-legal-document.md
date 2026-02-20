@@ -161,17 +161,45 @@ You agree to indemnify, defend, and hold harmless Coxygen, its directors, staff,
 22.1 **Mandatory Rights Preserved.** If your jurisdiction grants mandatory consumer rights that cannot be waived, those rights remain intact.
 22.2 **Severability by Jurisdiction.** Any clause that is unenforceable in your jurisdiction shall be modified to the minimum extent necessary to be enforceable, and the remainder of the Agreement remains in effect.
 
-## 23. Dispute Resolution, Arbitration, and Class Action Waiver
+## 23. Dispute Resolution, Neutral Arbitration Seat, and Class Action Waiver
 
-23.1 **Good Faith Resolution First.** Users agree to attempt good faith resolution via the Domain dispute process before formal proceedings.
-23.2 **Arbitration.** Except where prohibited by mandatory law, disputes arising out of or relating to this Agreement or Coxy Fi shall be resolved by **binding arbitration** under a recognized arbitration framework (e.g., UNCITRAL Rules), with procedures published by Coxygen.
-23.3 **Seat and Language.** Unless otherwise specified, the seat of arbitration shall be **Johannesburg, South Africa**, and the language shall be **English**.
-23.4 **Class Action Waiver.** To the maximum extent permitted by law, you agree to bring disputes only in your individual capacity and not as a plaintiff or class member in any class, collective, or representative proceeding.
+23.1 **Good-faith negotiation.** Before commencing arbitration, the parties shall attempt in good faith to resolve any dispute, claim, or controversy arising out of or relating to Coxy Fi, these Terms, any Domain policy, or any interface (“Dispute”) through written notice and reasonable discussion for at least fourteen (14) days, unless urgent interim relief is required.
 
-## 24. Governing Law
+23.2 **Binding arbitration (administered).** Except where prohibited by mandatory law, any Dispute that is not resolved under Section 23.1 shall be finally resolved by arbitration administered by the **Singapore International Arbitration Centre (SIAC)** in accordance with the **SIAC Rules** in force at the time the Notice of Arbitration is submitted. ([Aceris Law][2])
 
-24.1 **Default Governing Law.** This Agreement is governed by the laws of **South Africa**, excluding conflict-of-law rules, except where mandatory law in your jurisdiction requires otherwise.
-24.2 **Local Overrides.** If your local law requires a different governing law for certain claims, that local law will apply only to the extent required.
+23.3 **Seat (legal place) of arbitration: Singapore.** The **seat (legal place) of arbitration shall be Singapore**. The parties acknowledge that the seat is a legal concept distinct from the venue of hearings and that hearings may occur in any location (including virtually) as directed by the tribunal, without changing the seat. ([LCIA][1])
+
+23.4 **Language.** The language of the arbitration shall be English.
+
+23.5 **Number of arbitrators.**
+(a) If the aggregate amount in dispute is **USD 50,000 or less** (or the equivalent), the tribunal shall consist of **one (1) arbitrator**.
+(b) If the aggregate amount in dispute exceeds **USD 50,000**, the tribunal shall consist of **three (3) arbitrators**.
+(c) If SIAC’s rules or procedures provide an expedited or streamlined process applicable to the Dispute, that process may apply.
+
+23.6 **Interim and emergency relief.** The tribunal may grant interim relief. Where available under SIAC procedures, either party may apply for emergency relief, and any such relief shall be consistent with applicable law at the seat. ([Aceris Law][2])
+
+23.7 **Confidentiality.** To the extent permitted by law and applicable rules, the parties shall keep the existence of the arbitration and all materials, submissions, and awards confidential, except to enforce an award, comply with legal obligations, or disclose to professional advisers.
+
+23.8 **Finality and enforcement.** The award shall be final and binding on the parties. Judgment on the award may be entered and enforced in any court of competent jurisdiction, subject to applicable law and international enforcement frameworks. ([UNCITRAL][3])
+
+23.9 **No class actions / representative proceedings.** To the maximum extent permitted by law, Disputes must be brought in an individual capacity only, and not as a plaintiff or class member in any purported class, collective, or representative proceeding.
+
+23.10 **Mandatory consumer protections.** If mandatory consumer protection laws in a User’s jurisdiction prevent arbitration or restrict portions of this clause, those mandatory protections apply only to the extent required, and the remainder of this arbitration agreement remains in force.
+
+## 24. Governing Law (Two safe options)
+
+A neutral seat does **not** require neutral governing law; they are separate choices. ([debevoise.com][4])
+Choose one of these options and keep it consistent across the document:
+
+### Option A (recommended for you): South African governing law + neutral seat
+
+24.1 **Governing law.** This Agreement and any non-contractual obligations arising out of or relating to it shall be governed by the laws of **South Africa**, excluding conflict-of-law rules, except where mandatory law in a User’s jurisdiction requires otherwise.
+24.2 **Arbitration seat unaffected.** The seat of arbitration remains **Singapore** as stated in Section 23.3.
+
+### Option B: Neutral governing law + neutral seat (more “globally neutral”)
+
+24.1 **Governing law.** This Agreement and any non-contractual obligations arising out of or relating to it shall be governed by the laws of **Singapore** (or alternatively **England & Wales**), excluding conflict-of-law rules, except where mandatory law requires otherwise.
+24.2 **Arbitration seat.** The seat of arbitration remains **Singapore** as stated in Section 23.3.
 
 ## 25. Termination
 
